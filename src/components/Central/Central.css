@@ -1,0 +1,7 @@
+.div-central{
+    display: flex;
+    justify-content: center;
+}
+.div-central h1{
+    color: orange;
+}
